@@ -1,0 +1,11 @@
+# basic options
+title:My New Blog
+author: Banuka
+email: wijerathnebanuka@gmail.com
+description: A wonderful site
+twitter_username: Banuka
+github_username:  BMBW
+
+# Build settings
+markdown: kramdown
+theme: minima
